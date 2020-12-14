@@ -1,0 +1,1 @@
+DELETE FROM DimAccount_Bkp2
